@@ -30,4 +30,7 @@
 //await CosmosManager.AddItemPreTrigger();
 
 // Add Embedded Item to Cosmos
-await CosmosManager.AddEmbeddedItem();
+//await CosmosManager.AddEmbeddedItem();
+
+//Cosmos Table API Demo
+await CosmosManager.AddItemToTable();
